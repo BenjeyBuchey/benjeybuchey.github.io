@@ -2,26 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[SAMP](./pathfinding/index.html).
-
-[SORTING](./sorting/index.html).
-
+// Text can be **bold**, _italic_, or ~~strikethrough~~.
+/*
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*/
+# Sorting Algorithms
 
-# Header 1
+Sorting algorithms are algorithms that put randomly arranged elements of a list into a certain order, usually numeric or lexicographical order.
+In this project we visualize several sorting algorithms and compare their behaviour. Furthermore we can execute user entered code to swap elements and simulate different algorithms.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Sorting Algorithms](./sorting/index.html).
 
-## Header 2
+# Pathfinding
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Pathfinding or pathing refers to the process of finding the shortest route between two points. Here we compare and visualize various algorithms and we can build or customize our own maps.
 
+[Pathfinding](./sorting/index.html).
+
+//## Header 2
+
+//> This is a blockquote following a header.
+//>
+//> When something is important enough, you do it even if the odds are not in your favor.
+
+/*
 ### Header 3
 
 ```js
@@ -123,3 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+*/

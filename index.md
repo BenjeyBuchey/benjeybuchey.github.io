@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
+{% comment %} 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-// Text can be **bold**, _italic_, or ~~strikethrough~~.
-/*
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-*/
+{% endcomment %}
 # Sorting Algorithms
 
 Sorting algorithms are algorithms that put randomly arranged elements of a list into a certain order, usually numeric or lexicographical order.
@@ -19,15 +19,15 @@ In this project we visualize several sorting algorithms and compare their behavi
 
 Pathfinding or pathing refers to the process of finding the shortest route between two points. Here we compare and visualize various algorithms and we can build or customize our own maps.
 
-[Pathfinding](./sorting/index.html).
+[Pathfinding](./pathfinding/index.html).
 
-//## Header 2
+## Header 2
 
-//> This is a blockquote following a header.
-//>
-//> When something is important enough, you do it even if the odds are not in your favor.
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-/*
+
 ### Header 3
 
 ```js
@@ -129,4 +129,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-*/

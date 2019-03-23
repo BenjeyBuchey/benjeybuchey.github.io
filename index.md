@@ -15,7 +15,10 @@ In this project we visualize several sorting algorithms and compare their behavi
 
 [Sorting Algorithms](./sorting/index.html).
 
+{% comment %} 
 ![Sorting](./assets/images/sorting.JPG | width=300)
+{% endcomment %}
+<img src="./assets/images/sorting.JPG" width="400">
 
 # Pathfinding
 

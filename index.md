@@ -15,7 +15,7 @@ In this project we visualize several sorting algorithms and compare their behavi
 
 [Sorting Algorithms](./sorting/index.html).
 
-![Sorting](./pictures/sorting.png)
+![Sorting](./assets/images/sorting.JPG | width=300)
 
 # Pathfinding
 
@@ -23,7 +23,7 @@ Pathfinding or pathing refers to the process of finding the shortest route betwe
 
 [Pathfinding](./pathfinding/index.html).
 
-![Pathfinding](./pictures/pathfinding.png)
+![Pathfinding](./assets/images/pathfinding.png)
 
 {% comment %} 
 ## Header 2

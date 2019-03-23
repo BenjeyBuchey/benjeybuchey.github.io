@@ -25,8 +25,10 @@ In this project we visualize several sorting algorithms and compare their behavi
 Pathfinding or pathing refers to the process of finding the shortest route between two points. Here we compare and visualize various algorithms and we can build or customize our own maps.
 
 [Pathfinding](./pathfinding/index.html).
-
+{% comment %} 
 ![Pathfinding](./assets/images/pathfinding.png)
+{% endcomment %}
+<img src="./assets/images/pathfinding.JPG" width="400">
 
 {% comment %} 
 ## Header 2

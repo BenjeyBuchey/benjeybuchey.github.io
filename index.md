@@ -34,7 +34,8 @@ Pathfinding or pathing refers to the process of finding the shortest route betwe
 
 A Binary Search Tree is a combination of abstract data structures Search Tree and Binary Tree. It is a binary tree that contains nodes which are labelled with keys. Each node can have two children, where the key of the left child is always smaller and the key of the right child is always bigger than the key of the node.
 
-[Pathfinding](./pathfinding/index.html).
+[BinarySearchTrees](./binarysearchtrees/index.html).
+
 <img src="./assets/images/binarysearchtrees.JPG" width="400">
 
 {% comment %} 

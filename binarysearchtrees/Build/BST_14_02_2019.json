@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "BinarySearchTrees",
-"dataUrl": "BinarySearchTrees.data.unityweb",
-"wasmCodeUrl": "BinarySearchTrees.wasm.code.unityweb",
-"wasmFrameworkUrl": "BinarySearchTrees.wasm.framework.unityweb",
+"dataUrl": "BST_14_02_2019.data.unityweb",
+"wasmCodeUrl": "BST_14_02_2019.wasm.code.unityweb",
+"wasmFrameworkUrl": "BST_14_02_2019.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
